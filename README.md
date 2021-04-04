@@ -1,2 +1,2 @@
-# Glass_Calculator
+# Glass_Morphism_Calculator
 This is a Glass Calculator.
